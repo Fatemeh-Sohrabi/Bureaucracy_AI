@@ -1,0 +1,24 @@
+# Core
+python-dotenv
+
+# NLP
+spacy
+
+# Data Processing
+numpy
+pandas
+
+# API (future extension)
+fastapi
+uvicorn
+
+# AI / LLM integration (future)
+langchain
+langgraph
+
+# Vector Database (future RAG upgrade)
+faiss-cpu
+
+# Utilities
+requests
+pydantic
